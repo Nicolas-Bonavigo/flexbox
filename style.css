@@ -1,7 +1,9 @@
 #cartoes{
+    background-color: black;
+    height: 500px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    align-items: flex-end;
 }
 
 .grupo{
@@ -11,20 +13,25 @@
 
 #cartao1{
     background-color: red;
+    height: 100px;
 }
 
 #cartao2{
     background-color: yellow;
+    height: 250px;
 }
 
 #cartao3{
     background-color: green;
+    height: 100px; 
 }
 
 #cartao4{
     background-color: blue;
+    height: 250px;
 }
 
 #cartao5{
     background-color: orange;
+    height: 100px;
 }
